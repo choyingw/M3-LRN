@@ -13,7 +13,7 @@ Cho-Ying Wu, Qiangeng Xu, Ulrich Neumann, CGIT Lab at University of Souther Cali
 
 \+ **Fast and easy to use: 3000fps for 3D facial landmarks  on a RTX2080 GPU.**
 
-\+ ** The first to study the face reconstrcutability from sparse landmarks.**
+\+ **The first to study the face reconstrcutability from sparse landmarks.**
 
 More results:
 
