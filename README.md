@@ -19,6 +19,16 @@ Cho-Ying Wu, Qiangeng Xu, Ulrich Neumann, CGIT Lab at University of Souther Cali
 
 More results:
 
+Facial alignemnt on AFLW2000-3D (NME of facial landmarks):
+
+<img src='demo/alignment.png'>
+
+Face orientation estimation on AFLW2000-3D (MAE of Euler angles):
+
+<img src='demo/orientation.png'>
+
+General results: 
+
 <img src='demo/AF-1.png'>
 
 <img src='demo/AF-2.png'>
