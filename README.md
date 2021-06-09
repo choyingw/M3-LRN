@@ -33,4 +33,5 @@ General results:
 
 <img src='demo/AF-2.png'>
 
-Codes will be ready soon.
+**Updates:**
+We prepare to release the codes on late June.
